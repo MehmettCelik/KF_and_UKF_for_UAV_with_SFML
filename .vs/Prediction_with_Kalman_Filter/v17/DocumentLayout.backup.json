@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\Prediction_with_Kalman_Filter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334F75E1-949D-4667-8BA5-895A8ACB4552}|Prediction_with_Kalman_Filter\\Prediction_with_Kalman_Filter.vcxproj|C:\\Users\\mehme\\source\\repos\\Prediction_with_Kalman_Filter\\Prediction_with_Kalman_Filter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334F75E1-949D-4667-8BA5-895A8ACB4552}|Prediction_with_Kalman_Filter\\Prediction_with_Kalman_Filter.vcxproj|solutionrelative:Prediction_with_Kalman_Filter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Prediction_with_Kalman_Filter\\Prediction_with_Kalman_Filter\\main.cpp",
+              "RelativeDocumentMoniker": "Prediction_with_Kalman_Filter\\main.cpp",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Prediction_with_Kalman_Filter\\Prediction_with_Kalman_Filter\\main.cpp",
+              "RelativeToolTip": "Prediction_with_Kalman_Filter\\main.cpp",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAAAOQBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T18:59:27.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

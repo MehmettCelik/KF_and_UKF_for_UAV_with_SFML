@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(111,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(112,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(175,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(176,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(186,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(197,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(208,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(236,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(276,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(289,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(303,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(304,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(326,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(337,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(338,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(351,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(352,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(363,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(364,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(480,156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(480,151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(480,146): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(480,109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(480,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,120): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,120): warning C4244:         with
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,120): warning C4244:         [
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,120): warning C4244:             T=int
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,120): warning C4244:         ]
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,103): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,103): warning C4244:         with
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,103): warning C4244:         [
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,103): warning C4244:             T=int
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(481,103): warning C4244:         ]
+C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Prediction_with_Kalman_Filter\main.cpp(501,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Prediction_with_Kalman_Filter.vcxproj -> C:\Users\mehme\source\repos\Prediction_with_Kalman_Filter\Debug\Prediction_with_Kalman_Filter.exe
